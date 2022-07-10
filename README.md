@@ -1,2 +1,2 @@
-# django_project_portfolio website
+# django website
 Portfolio website deployed in django
