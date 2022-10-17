@@ -1,2 +1,2 @@
 # django website
-Portfolio website deployed in django
+Сайт на тематику тату салона. 
